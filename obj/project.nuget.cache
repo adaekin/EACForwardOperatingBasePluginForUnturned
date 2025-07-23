@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvC2VxdgKO4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adaek\\source\\repos\\EACFOB\\EACFOB\\EACFOB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adaek\\.nuget\\packages\\restoremonarchy.rocketredist\\3.25.7\\restoremonarchy.rocketredist.3.25.7.nupkg.sha512",
+    "C:\\Users\\adaek\\.nuget\\packages\\restoremonarchy.unturnedredist\\3.25.7\\restoremonarchy.unturnedredist.3.25.7.nupkg.sha512"
+  ],
+  "logs": []
+}

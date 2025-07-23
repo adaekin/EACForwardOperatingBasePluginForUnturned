@@ -1,0 +1,9 @@
+C:\Users\adaek\source\repos\EACFOB\EACFOB\bin\Debug\net48\EACFOB.dll
+C:\Users\adaek\source\repos\EACFOB\EACFOB\bin\Debug\net48\EACFOB.pdb
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.csproj.AssemblyReference.cache
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.AssemblyInfoInputs.cache
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.AssemblyInfo.cs
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.csproj.CoreCompileInputs.cache
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.dll
+C:\Users\adaek\source\repos\EACFOB\EACFOB\obj\Debug\net48\EACFOB.pdb
