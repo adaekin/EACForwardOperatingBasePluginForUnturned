@@ -14,36 +14,44 @@ https://youtu.be/U5qr-4f1mtg
 ### Commands
 
 **Fob list**
-Gives list of fobs that belongs your team.
 `/fobs ` 
+Gives list of fobs that belongs your team.
+
 
 **Teleporting to fob**
-Teleports to fob.
 `/fob <name> `   
+Teleports to fob.
+
 
 **Creating Fob**
-Creates fob for teams.
 `/fobcreate <team> <name> `
+Creates fob for teams.
+
 
 **Disable/Enable Fobs**
-This command deactive and active deploying fob.
 `/fobdisable` 
+This command deactive and active deploying fob.
+
 
 **All Fobs**
-List all fobs no mather which team is.
 `/afobs `  
+List all fobs no mather which team is.
+
 
 **Fob info**
-This command gives information about fob, given informations is creator of fob, fob name, fob id and fob position. You get informations by using fob name or fob id.
 `/fobinfo <fobname/id> ` 
+This command gives information about fob, given informations is creator of fob, fob name, fob id and fob position. You get informations by using fob name or fob id.
+
 
 **Destroy Fob**
-This command destroy fobs by id. Related for admins, you can see fob id by using /afobs or /fobinfo.
 `/fobdestroy <id> `  
+This command destroy fobs by id. Related for admins, you can see fob id by using /afobs or /fobinfo.
+
 
 **Clean All Fobs**
-Clean all fob barricades and fobs.
 `/fobcleanall `  
+Clean all fob barricades and fobs.
+
   
 ### If you have a problem please make a comment or dm me from discord(Much faster)
 - My Discord Name: realekin
